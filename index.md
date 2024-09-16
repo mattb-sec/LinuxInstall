@@ -80,7 +80,7 @@ After rebooting and logging in, the changes I made in the previous section have 
 
 Overall, I feel that this lab is a good introduction to the operating systems and virtual machines that will be covered in this course. The processes were fairly easy, and all of the concepts were straightforward. My only criticism is that the directions could have been a bit more explicit in mentioning that virtualization for my computer must be enabled. In terms of limitations, I would say the only one is that I prematurely captured a snapshot of my machine by mistake thinking it would take a screenshot. This did not seem to affect the lab in any significant way, but it is worth mentioning since it is a deviation from the instructions. Nevertheless, the lab was completed to satisfaction, and I now have a better understanding of CentOS and VirtualBox.
 
-# References
+# Reference
 
 <a href="https://www.nakivo.com/blog/virtualbox-network-setting-guide/" target="_blank" rel="noopener noreferrer">
   VirtualBox Network Settings: All You Need to Know
