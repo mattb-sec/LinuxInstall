@@ -82,6 +82,6 @@ Overall, I feel that this lab is a good introduction to the operating systems an
 
 # References
 
-<a href="https://www.nakivo.com/blog/virtualbox-network-setting-guide/" target="_blank">
+<a href="https://www.nakivo.com/blog/virtualbox-network-setting-guide/" target="_blank" rel="noopener noreferrer">
   VirtualBox Network Settings: All You Need to Know
 </a>
